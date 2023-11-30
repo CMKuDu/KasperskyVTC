@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Application\bin\Debug\net6.0\Kaspersky.Application.deps.json
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Application\bin\Debug\net6.0\Kaspersky.Application.dll
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Application\bin\Debug\net6.0\Kaspersky.Application.pdb
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Application\obj\Debug\net6.0\Kaspersky.Application.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Application\obj\Debug\net6.0\Kaspersky.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Application\obj\Debug\net6.0\Kaspersky.Application.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Application\obj\Debug\net6.0\Kaspersky.Application.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Application\obj\Debug\net6.0\Kaspersky.Application.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Application\obj\Debug\net6.0\Kaspersky.Application.dll
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Application\obj\Debug\net6.0\refint\Kaspersky.Application.dll
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Application\obj\Debug\net6.0\Kaspersky.Application.pdb
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Application\obj\Debug\net6.0\ref\Kaspersky.Application.dll

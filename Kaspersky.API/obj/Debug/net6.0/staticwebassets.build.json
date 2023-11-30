@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bMmI+rf+7OW7iw4AuDWdF+BP6uyeTEdccl3/JaiBco8=",
+  "Source": "Kaspersky.API",
+  "BasePath": "_content/Kaspersky.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

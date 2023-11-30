@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Persistence\bin\Debug\net6.0\Kaspersky.Persistence.deps.json
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Persistence\bin\Debug\net6.0\Kaspersky.Persistence.dll
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Persistence\bin\Debug\net6.0\Kaspersky.Persistence.pdb
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Persistence\bin\Debug\net6.0\Kaspersky.Application.dll
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Persistence\bin\Debug\net6.0\Kaspersky.Domain.dll
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Persistence\bin\Debug\net6.0\Kaspersky.Application.pdb
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Persistence\bin\Debug\net6.0\Kaspersky.Domain.pdb
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Persistence\obj\Debug\net6.0\Kaspersky.Persistence.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Persistence\obj\Debug\net6.0\Kaspersky.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Persistence\obj\Debug\net6.0\Kaspersky.Persistence.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Persistence\obj\Debug\net6.0\Kaspersky.Persistence.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Persistence\obj\Debug\net6.0\Kaspersky.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Persistence\obj\Debug\net6.0\Kaspersky.Persistence.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Persistence\obj\Debug\net6.0\Kaspersky.Persistence.dll
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Persistence\obj\Debug\net6.0\refint\Kaspersky.Persistence.dll
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Persistence\obj\Debug\net6.0\Kaspersky.Persistence.pdb
+C:\Users\LENOVO\source\repos\Kaspersky\Kaspersky.Persistence\obj\Debug\net6.0\ref\Kaspersky.Persistence.dll
