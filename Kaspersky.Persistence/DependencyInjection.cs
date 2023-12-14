@@ -2,6 +2,7 @@
 using Kaspersky.Domain.Common.Contracts;
 using Kaspersky.Persistence.Contracts;
 using Kaspersky.Persistence.Data;
+using Kaspersky.Persistence.Utilities;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -48,7 +49,7 @@ namespace Kaspersky.Persistence
                 options.ExpireTimeSpan = TimeSpan.FromDays(2); // Thời gian sống của Cookie
                 options.SlidingExpiration = true; // Tự động gia hạn thời gian sống khi có hoạt động
             });
-
+            services.AddTransient<IRestClient, RestClient>();
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.Scan(scan => scan
                 .FromAssemblyOf<GenericRepository<object>>()
